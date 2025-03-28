@@ -1,38 +1,10 @@
 # BSOD FORCE
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Instructions</title>
-<style>
-    p {
-        font-family: Arial;
-    }
-    h1 {
-        font-family: Arial;
-    }
-    h2 {
-        font-family: Arial;
-    }
-    h3{
-        font-family: Arial;
-    }
-    .bsod {
-        font-size: 40px;
-        font-family: Arial;
-        color: rgb(27, 91, 187);
-    }
-    li {
 
-        font-family: Arial;
 
-    }
-</style>
+
 <body>
     <h1>Instructions</h1>
-    <p>Welcome to the  <p class="bsod"><b>BSOD</b></p> <p>instructions page! Here you will find all the information you need to get started.</p>
-    
+
     <h2>Step 1: Setting Up</h2>
     <p>To begin, make sure you are executing the exe as <b>Administrator</b></p>
     <h3>CheckList</h3>
